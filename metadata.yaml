@@ -1,0 +1,29 @@
+_repo: An-Essay-on-the-Application-of-the-Lunar-Caustic-in-the-Cure-of-Certain-Wounds-and-Ulcers_23729
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Higginbottom, John
+    birthdate: 1788
+    deathdate: 1876
+    gutenberg_agent_id: '26001'
+    url: http://www.gutenberg.org/2009/agents/26001
+description: ''
+gutenberg_issued: '2007-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Antiseptics'
+- !lcsh 'Wound healing'
+- !lcc 'RM'
+- !lcsh 'Silver nitrate'
+title: An Essay on the Application of the Lunar Caustic in the Cure of Certain Wounds
+  and Ulcers
+url: http://www.gutenberg.org/ebooks/23729
