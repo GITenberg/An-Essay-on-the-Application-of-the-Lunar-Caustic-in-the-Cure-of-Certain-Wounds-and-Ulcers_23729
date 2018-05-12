@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26001'
     url: http://www.gutenberg.org/2009/agents/26001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23729#An-Essay-on-the-Application-of-the-Lunar-Caustic-in-the-Cure-of-Certain-Wounds-and-Ulcers
 gutenberg_issued: '2007-12-04'
 gutenberg_type: Text
 identifiers:
